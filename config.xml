@@ -35,6 +35,6 @@ Leslie Arcos Prieto 4G
 
 <!--Colocar icono app-->
 
-<icon src="res/andorid/mpdi.png"/>
+<icon src="res/android/mdpi.png"/>
 
 </widget>
